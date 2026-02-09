@@ -1,0 +1,5 @@
+fullname: "GitHub Sync Test Course"
+shortname: "GHTEST01"
+summary: "A test course to verify the GitHub Sync plugin works correctly."
+format: topics
+visible: true

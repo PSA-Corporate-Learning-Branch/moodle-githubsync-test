@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#e9ecef" rx="8"/>
+  <text x="100" y="55" font-family="Arial" font-size="14" fill="#6c757d" text-anchor="middle">Test Image</text>
+</svg>
