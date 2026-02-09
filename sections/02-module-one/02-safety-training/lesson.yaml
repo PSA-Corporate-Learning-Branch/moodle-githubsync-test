@@ -1,0 +1,8 @@
+title: "Safety Training"
+practice: true
+retake: true
+feedback: true
+review: false
+maxattempts: 3
+progressbar: true
+intro: "<p>Complete this lesson on workplace safety.</p>"
